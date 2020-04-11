@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Tour Guide</string>
+    <string name="main_title">Tour Guide - Algeria</string>
+    <string name="category_culture">Culture</string>
+    <string name="category_parks">Parks</string>
+    <string name="category_monuments">Monuments</string>
+    <string name="category_shopping">Shopping</string>
+
+
+    <!-- Cultural places names -->
+    <string name="algerian_theater">Agerian Theater</string>
+    <string name="batna_theater">Batna Theater</string>
+    <string name="hyponne">Hyponne</string>
+    <string name="museum_modern_art">Museum of Modern Art</string>
+    <string name="ahmed_zabana">Ahmed Zabana Museum</string>
+    <string name="central_studies_andalouses">Central Studies Andalouses</string>
+    <string name="cherchal_museum">Cherchal Museum</string>
+    <string name="palais_of_rais">Palais of Rais</string>
+
+
+
+    <!-- Monuments names -->
+    <string name="timgad">Timgad</string>
+    <string name="memorial_du_matyr">Memorial du Matyr</string>
+    <string name="tombeau_de_la_chretienne">Tombeau de la Chrétienne</string>
+    <string name="basilique_saint_augustin">Basilique Saint Augustin</string>
+    <string name="santa_cruz">Santa Cruz</string>
+    <string name="ahmed_bey">Ahmed Bey</string>
+    <string name="ketchaoua_mosque">Katchoua Mosque</string>
+    <string name="el_mansourah">El Mansourah</string>
+    <string name="ain_el_fouara">Ain El Fouara</string>
+
+
+    <!-- Parks names -->
+    <string name="chrea_park">Chrea Park</string>
+    <string name="djurdjura_park">Djurdjura Park</string>
+    <string name="tikijda_park">Tikijda Parc</string>
+    <string name="tlemcen">Tlemcen</string>
+    <string name="ahuggar_parc">Ahuggar Parc</string>
+    <string name="taza_park">Taza Park</string>
+    <string name="tassili_park">Tassili NAjjer</string>
+    <string name="hoggar">Hoggar</string>
+
+
+    <!-- Shopping places names -->
+    <string name="saida_souk">Saida Souk</string>
+    <string name="city_center">Center Commercial City Center</string>
+    <string name="seen_art">Seen Art</string>
+    <string name="ritaj_mall">Ritaj Mall</string>
+    <string name="ghardaia_market">Ghardaia Market</string>
+
+
+</resources>
